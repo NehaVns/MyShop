@@ -22,4 +22,4 @@ The **ShopKart** is an e-commerce 🛒 app where users can **buy** or **sell** p
 * [Glide](https://github.com/bumptech/glide)
 * [Coroutine](https://developer.android.com/topic/libraries/architecture/coroutines)
 
-💪 Inspired from : [Denis Panjuta](https://www.udemy.com/course/android-firebase-firestore-masterclass-build-a-shop-app/)
+
